@@ -2,6 +2,7 @@
 about:
   enable: true
   title: About Us
+  description: Description Goes Here
   about_item:
   - icon: ti-rocket
     title: MISSION
