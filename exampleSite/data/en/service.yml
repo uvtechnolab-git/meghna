@@ -13,10 +13,9 @@ service:
     icon: ti-stats-down
     content: Clear stipulations faster, reduce contract-in-transit times for faster
       funding.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Instant Pre-Approval
+    icon: ti-key
+    content: Engage your customers, sell more cars in less time.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
