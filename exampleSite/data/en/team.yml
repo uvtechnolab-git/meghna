@@ -30,8 +30,16 @@ team:
     image_webp: images/team/ken.webp
     image: images/team/ken.jpg
     designation: Managing Partner, Co-Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: |-
+      Ken brings more than 25 years of leadership with a highly decorated track record in driving growth and operational excellence in fast-paced and organizations recognized as leaders in their respective fields within the automotive, financial services and Fintech sectors. With an acknowledged track record of providing leadership and “hyper-growth” to organizations, Suprenant is a highly regarded and well-recognized executive who accelerates revenue and transforms companies to achieve record market share and brand prominence, both nationally and internationally.
+
+      Ken's past experiences include National Credit Center leading his team to achieve over $100M in revenue growth in less than 8 years and record profitability with full P&L responsibility, Automotive Finance Corporation where he built a sales and marketing division from the ground up that supported 90 finance branches in the U.S. and Canada. He leadership contributed to doubling AFC’s customer base to over 23,000 dealers and record revenue every year of his tenure.  Ken has also led start-up operations with AutoLend  and Auction Finance Group where he led a start-up dealer floorplan company to national prominence and the acquisition of Canadian Auction Group before being acquired.
+
+      His operations leadership includes experience in the auction and vehicle remarketing space where he received many accolades including being a multi-year recipient of Ford's Golden Gavel Award for the top  auction’s in the country, Remarketing Auction of the year by Bank of America for top sales retention, quality,  and customer satisfaction, and leading all Manheim Auctions in EBITDA 4 consecutive years. His experience to scale businesses through OEM, Tier 2, top 100 dealer groups, agents, and strategic integration partners is a catalyst for his success in developing new business and sales channels.
+
+      Suprenant has been a guest speaker for NADA, NIADA, NAAA, Digital Dealer, NABD, Dealer 20 groups, Equifax National Sales Conference, and many state dealer association conventions.
+
+      In his free time Ken loves spending time with his family, his French Bulldog Chance, and coaching baseball.  He is also an avid tennis player winning 4 state and regional titles, and a finalist in the 2018 national championships.
     social:
     - icon: ti-facebook
       link: "#"
