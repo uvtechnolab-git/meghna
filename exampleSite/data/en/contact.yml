@@ -13,7 +13,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: 713-828-3872'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: contact@agilitydealer.com'
   contact_form:
     enable: true
     form_action: "#"
