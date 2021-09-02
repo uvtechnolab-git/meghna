@@ -12,6 +12,7 @@
 					<h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 						{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
 					<div class="border-meghna"></div>
+					<div class="about-description">{{ .description | markdownify }}</div>
 				</div>
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
