@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/about/rim.jpg
+  image_webp: images/about/rim.webp
   title: Simpler. Better. Faster.
   content: |-
     Performance-driven technology, market intelligence,
