@@ -12,7 +12,7 @@ feature:
     content: 'Set up how you like and Tailored to fit your dealerships needs - you
       select your format, tailored reporting, alerts, escalations, and much more.     '
   - title: Speed & Performance
-    icon: ti-panel
+    icon: ti-stats-up
     content: Fastest response times, actionable and configurable solutions that drive
       market share, consumer engagement, and more profits for your dealership.
   - title: Security
