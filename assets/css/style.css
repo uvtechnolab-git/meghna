@@ -1037,11 +1037,12 @@ a:hover {
   transform: rotateY(0deg) scale(1, 1);
 }
 .member-meta .designation,.member-meta h4{text-align:center;}
-.member-photo img{padding: 90px 0 23px 0;}
 
 .member-photo {
   overflow: hidden;
   position: relative;
+  padding: 90px 0 23px 0;
+  text-align:center;
 }
 
 @media (max-width: 768px) {
