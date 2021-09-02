@@ -16,10 +16,9 @@ service:
   - name: Instant Pre-Approval
     icon: ti-check-box
     content: Engage your customers, sell more cars in less time.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: AI-Powered analytics
+    icon: ti-bar-chart
+    content: Data-driven insights, fueling customer acquisition.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
