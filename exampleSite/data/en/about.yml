@@ -2,7 +2,12 @@
 about:
   enable: true
   title: About Us
-  description: Description Goes Here
+  description: 'Agility Credit is revolutionizing the way credit reporting, compliance,
+    and lead generation products are delivered to automotive dealers.  What makes
+    us different is EVERYTHING. Our customer-centric platform delivers a one-of-a-kind
+    user experience, customizable technology, market intelligence that fuels customer
+    acquisition and the fastest credit processing delivery time in the industry –
+    Guaranteed! '
   about_item:
   - icon: ti-rocket
     title: MISSION
