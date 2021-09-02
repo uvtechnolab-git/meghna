@@ -6,10 +6,9 @@ service:
   - name: Credit Reporting
     icon: ti-user
     content: The ultimate user experience to access your credit reports.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Compliance & ID Verification
+    icon: ti-shield
+    content: Protecting your dealerships reputation and the bottom line.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
