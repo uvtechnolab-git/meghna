@@ -14,7 +14,7 @@ service:
     content: Clear stipulations faster, reduce contract-in-transit times for faster
       funding.
   - name: Instant Pre-Approval
-    icon: ti-key
+    icon: ti-check-box
     content: Engage your customers, sell more cars in less time.
   - name: Apps Development
     icon: ti-package
