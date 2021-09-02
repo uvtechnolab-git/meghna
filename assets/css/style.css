@@ -247,10 +247,9 @@ a:hover {
 #team{background:#3f4751!important;}
 .contact-description {
     color: #afbac4;
-    margin-top: 30px;
     font-size: 17px;
     width: 50%;
-    margin: 0 auto;
+    margin: 30px auto 0 auto;
 }
 
 
