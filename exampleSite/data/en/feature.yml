@@ -16,7 +16,7 @@ feature:
     content: Fastest response times, actionable and configurable solutions that drive
       market share, consumer engagement, and more profits for your dealership.
   - title: Security
-    icon: ti-stats-up
+    icon: ti-lock
     content: We safeguard your dealership dealership with the strongest and most robust
       encryption available. We are PCI compliant and EI3PA certified.
   - title: Compliance
