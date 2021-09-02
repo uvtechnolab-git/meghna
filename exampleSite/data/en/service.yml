@@ -10,7 +10,7 @@ service:
     icon: ti-shield
     content: Protecting your dealerships reputation and the bottom line.
   - name: Risk Mitigation
-    icon: ti-blackboard
+    icon: ti-stats-down
     content: Clear stipulations faster, reduce contract-in-transit times for faster
       funding.
   - name: Graphic Design
