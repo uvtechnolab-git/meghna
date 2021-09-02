@@ -249,7 +249,10 @@ a:hover {
     color: #afbac4;
     margin-top: 30px;
     font-size: 17px;
+    width: 50%;
+    margin: 0 auto;
 }
+
 
 @media (max-width: 480px) {
   .section {
