@@ -9,10 +9,10 @@ service:
   - name: Compliance & ID Verification
     icon: ti-shield
     content: Protecting your dealerships reputation and the bottom line.
-  - name: Media &amp; Advertisement
+  - name: Risk Mitigation
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Clear stipulations faster, reduce contract-in-transit times for faster
+      funding.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
