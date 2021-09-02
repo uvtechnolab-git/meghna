@@ -3,7 +3,7 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: ti-ruler-pencil
+  - icon: ti-rocket
     title: MISSION
     content: To give every customer the most compelling user experience possible
   - icon: ti-cup
