@@ -2,10 +2,9 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle: Contact one of our  Dealer Services Managers today
+  content: Demo – User Experience  – Product Capabilities – Customized Solutions –
+    Annual Cost Savings
   contact_list:
   - icon: ti-location-pin
     info: Khaja Road, Bayzid, Chittagong, Bangladesh
