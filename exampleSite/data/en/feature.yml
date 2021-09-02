@@ -8,7 +8,7 @@ feature:
     for dealers.
   feature_item:
   - title: Easy Customization
-    icon: ti-world
+    icon: ti-settings
     content: 'Set up how you like and Tailored to fit your dealerships needs - you
       select your format, tailored reporting, alerts, escalations, and much more.     '
   - title: Speed & Performance
