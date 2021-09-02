@@ -19,7 +19,6 @@ service:
   - name: AI-Powered analytics
     icon: ti-bar-chart
     content: Data-driven insights, fueling customer acquisition.
-  - name: Networking
+  - name: Market Intelligence
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Competitive insights with actual sales and lender data in your DMA.
