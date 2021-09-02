@@ -15,10 +15,10 @@ feature:
     icon: ti-panel
     content: Fastest response times, actionable and configurable solutions that drive
       market share, consumer engagement, and more profits for your dealership.
-  - title: "3"
+  - title: Security
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: We safeguard your dealership dealership with the strongest and most robust
+      encryption available. We are PCI compliant and EI3PA certified.
   - title: "4"
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
