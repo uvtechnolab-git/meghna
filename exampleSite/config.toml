@@ -26,23 +26,11 @@ name = "Solutions"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
-[[Languages.en.menu.main]]
 name = "Team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-[[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 [Languages.fr]
