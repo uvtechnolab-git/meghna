@@ -242,7 +242,7 @@ a:hover {
 }
 
 .about .block{min-height: 393px;}
-
+.service-block{min-height: 350px;}
 
 @media (max-width: 480px) {
   .section {
