@@ -23,7 +23,7 @@ url = "#about"
 weight = "2"
 [[Languages.en.menu.main]]
 name = "Solutions"
-url = "#solutions"
+url = "#services"
 weight = "3"
 [[Languages.en.menu.main]]
 name = "Team"
@@ -80,7 +80,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/agility-logo.png"
 post_share = true
 [params.cookies]
 enable = false
