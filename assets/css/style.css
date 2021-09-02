@@ -1111,7 +1111,7 @@ a:hover {
   margin: 0 0 5px;
 }
 
-.member-meta span {
+.member-meta .designation {
   font-size: 12px;
 }
 
