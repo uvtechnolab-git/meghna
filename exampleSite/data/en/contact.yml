@@ -2,6 +2,7 @@
 contact:
   enable: true
   title: Contact Us
+  description: Description goes here
   subtitle: Contact one of our  Dealer Services Managers today
   content: Demo – User Experience  – Product Capabilities – Customized Solutions –
     Annual Cost Savings
