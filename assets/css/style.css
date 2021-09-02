@@ -260,6 +260,7 @@ a:hover {
 }
 
 @media (max-width: 768px) {
+  .contact-description{width:100%;}
   .section {
     padding: 80px 0;
   }
