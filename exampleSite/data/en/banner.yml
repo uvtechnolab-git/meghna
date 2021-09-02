@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: images/backgrounds/main-banner.webp
+  bg_image: images/backgrounds/main-banner.jpg
   icon: ''
   title: Experience the new reality
   content: Credit and Compliance Solutions Without all the Turbulence
