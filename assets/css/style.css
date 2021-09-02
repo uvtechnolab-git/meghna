@@ -1040,6 +1040,8 @@ a:hover {
 .member-photo {
   overflow: hidden;
   position: relative;
+  text-align: center;
+  padding: 90px 0 23px 0;
 }
 
 @media (max-width: 768px) {
