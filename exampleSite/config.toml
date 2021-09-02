@@ -15,7 +15,7 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Home"
-url = "/"
+url = "#content"
 weight = "1"
 [[Languages.en.menu.main]]
 name = "About"
