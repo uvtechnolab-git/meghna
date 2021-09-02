@@ -245,7 +245,11 @@ a:hover {
 .service-block{min-height: 350px;}
 .about-description{color:#afbac4;margin-top: 30px;}
 #team{background:#3f4751!important;}
-
+.contact-description {
+    color: #afbac4;
+    margin-top: 30px;
+    font-size: 17px;
+}
 
 @media (max-width: 480px) {
   .section {
