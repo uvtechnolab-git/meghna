@@ -1036,11 +1036,11 @@ a:hover {
   -webkit-transform: rotateY(0deg) scale(1, 1);
   transform: rotateY(0deg) scale(1, 1);
 }
+.member-meta span,.member-meta h4{text-align:center;}
 
 .member-photo {
   overflow: hidden;
   position: relative;
-  text-align: center;
   padding: 90px 0 23px 0;
 }
 
