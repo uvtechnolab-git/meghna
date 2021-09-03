@@ -258,7 +258,10 @@ a:hover {
 li.nav-item {
     padding: 0 8px;
 }
-
+#contact-form select{
+    width: 100%;
+    height: 39px;
+}
 
 @media only screen and (max-width: 768px) {
   .contact-description{
