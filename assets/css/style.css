@@ -264,6 +264,9 @@ li.nav-item {
     background:#999ea4;
 }
 .navbar-brand img{height:60px;}
+a.nav-link {
+    font-size: 19px;
+}
 
 @media only screen and (max-width: 768px) {
   .contact-description{
