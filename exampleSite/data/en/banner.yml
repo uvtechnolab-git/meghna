@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: DISCOVER MORE
-    link: "#services"
+    link: "#solutions"
