@@ -272,8 +272,7 @@ a.nav-link {
     margin: 0 4px 0 10px;
     color: #57cbcc;
 }
-
-
+.copyrights-text{color:#767e85;}
 
 @media only screen and (max-width: 768px) {
   .contact-description{
