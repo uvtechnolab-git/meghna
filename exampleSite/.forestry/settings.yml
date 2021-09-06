@@ -38,6 +38,15 @@ sections:
   templates:
   - author
 - type: heading
+  label: Page
+- type: directory
+  path: exampleSite/content/english/page
+  label: Author (en)
+  create: documents
+  match: "**/*"
+  templates:
+  - page  
+- type: heading
   label: Data
 - type: directory
   path: exampleSite/data
