@@ -41,7 +41,7 @@ sections:
   label: Page
 - type: directory
   path: exampleSite/content/english/page
-  label: Author (en)
+  label: Page
   create: documents
   match: "**/*"
   templates:
