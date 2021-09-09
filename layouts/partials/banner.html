@@ -13,13 +13,15 @@
 </video>
 
 <div class="video-overlay">  
-	<h1>{{ .title | markdownify }}</h1>
-	<p>{{ .content | markdownify }}</p>
-	{{ if .button.enable }}
-	{{ with .button }}
-	<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
-	{{ end }}
-	{{ end }}
+	<div class="parent-overlay">
+		<h1>{{ .title | markdownify }}</h1>
+		<p>{{ .content | markdownify }}</p>
+		{{ if .button.enable }}
+		{{ with .button }}
+		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+		{{ end }}
+		{{ end }}
+	</div>
 </div>
 
 <style>
