@@ -12,19 +12,14 @@
     Your browser does not support the video tag. I suggest you upgrade your browser.
 </video>
 
-<div class="overlay">
-  {{ if .icon }}
-		<div class="video-button">
-			<i class="{{ .icon }}"></i>
-		</div>
-		{{ end }}
-		<h1>{{ .title | markdownify }}</h1>
-		<p>{{ .content | markdownify }}</p>
-		{{ if .button.enable }}
-		{{ with .button }}
-		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
-		{{ end }}
-		{{ end }}
+<div class="overlay">  
+	<h1>{{ .title | markdownify }}</h1>
+	<p>{{ .content | markdownify }}</p>
+	{{ if .button.enable }}
+	{{ with .button }}
+	<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+	{{ end }}
+	{{ end }}
 </div>
 
 <style>
@@ -52,7 +47,7 @@ video {
       -ms-flex-pack: center;
           justify-content: center;
 }
-.overlay h2 {
+.overlay h1 {
     background: #000 none repeat scroll 0 0;
     color: tan;
     font-weight: 600;
