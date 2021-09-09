@@ -12,7 +12,7 @@
     Your browser does not support the video tag. I suggest you upgrade your browser.
 </video>
 
-<div class="overlay">  
+<div class="video-overlay">  
 	<h1>{{ .title | markdownify }}</h1>
 	<p>{{ .content | markdownify }}</p>
 	{{ if .button.enable }}
@@ -35,7 +35,7 @@ video {
      object-position: center;
 }
 
-.overlay {
+.video-overlay {
   min-height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -47,7 +47,7 @@ video {
       -ms-flex-pack: center;
           justify-content: center;
 }
-.overlay h1 {
+.video-overlay h1,video-overlay p,video-overlay a {
     background: #000 none repeat scroll 0 0;
     color: tan;
     font-weight: 600;
