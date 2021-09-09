@@ -296,7 +296,7 @@ footer#footer {
 .service-block:hover >  h3 {    
     color: #fff;
 }
-
+.parent-overlay{text-align:center;}
 
 
 @media only screen and (max-width: 768px) {
