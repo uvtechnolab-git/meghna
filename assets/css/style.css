@@ -278,7 +278,9 @@ a.nav-link {
 .quick-links a {
     color: #000;
 }
-
+footer#footer {
+    background: #f4f4f4;
+}
 
 @media only screen and (max-width: 768px) {
   .contact-description{
@@ -473,7 +475,7 @@ a.nav-link {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #1d2024;
+  background-color: #F8F9FA;
   width: 100%;
   margin-bottom: 0;
 }
@@ -482,7 +484,7 @@ a.nav-link {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #0b59bd;
+  color: #000;
 }
 
 .navbar-toggler:focus {
