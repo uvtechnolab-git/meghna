@@ -285,9 +285,19 @@ footer#footer {
     background: #0b59bd;
     color: #fff;
 }
-.about h3:hover {
+.about .block:hover + .about h3 {
     color: #fff;
 }
+
+.service-block:hover {
+    background: #0b59bd;
+    color: #fff;
+}
+.service-block:hover +  .service-block h3 {    
+    color: #fff;
+}
+
+
 
 @media only screen and (max-width: 768px) {
   .contact-description{
