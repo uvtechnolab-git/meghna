@@ -4,10 +4,14 @@
 {{ with $data.banner.banner }}
 {{"<!-- Welcome Slider-->" | safeHTML}}
 <section class="hero-area">
-	<video autoplay>
+	<video autoplay muted loop id="vid">
 	  <source src="{{ .bg_image | absURL }}" type="video/mp4">	  
 	  Your browser does not support HTML video.
 	</video>
+	
+	<script>
+	    document.getElementById('vid').play();
+	</script>
 
 	<div class="block">
 		{{ if .icon }}
