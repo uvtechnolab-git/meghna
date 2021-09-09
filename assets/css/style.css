@@ -285,7 +285,7 @@ footer#footer {
     background: #0b59bd;
     color: #fff;
 }
-.about .block:hover + .about h3 {
+.about .block:hover > .about h3 {
     color: #fff;
 }
 
@@ -293,7 +293,7 @@ footer#footer {
     background: #0b59bd;
     color: #fff;
 }
-.service-block:hover +  .service-block h3 {    
+.service-block:hover >  .service-block h3 {    
     color: #fff;
 }
 
