@@ -28,6 +28,32 @@
 		{{ end }}
 	</div>
 </section>
+
+<div class="container">
+    <video id="video" width="770" height="882" id="vid">
+        <source src="{{ .bg_image | absURL }}" type="video/mp4" />
+    </video>
+    <div class="overlayText">
+        <p id="topText">Content above your video</p>
+    </div>
+</div>`enter code here`
+
+<style>
+#overlayText {
+ position:absolute;
+  top:30%;
+  left:20%;
+  z-index:1;
+}
+
+#topText {
+  color: white;
+  font-size: 20px;
+  align-self: center;
+}
+</style>
+
+	
 {{"<!-- /Welcome Slider-->" | safeHTML}}
 {{end}}
 {{end}}
