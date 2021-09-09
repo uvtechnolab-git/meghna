@@ -281,6 +281,13 @@ a.nav-link {
 footer#footer {
     background: #f4f4f4;
 }
+.about .block:hover {
+    background: #0b59bd;
+    color: #fff;
+}
+.about h3:hover {
+    color: #fff;
+}
 
 @media only screen and (max-width: 768px) {
   .contact-description{
@@ -481,6 +488,9 @@ footer#footer {
 }
 
 .navbar-dark .navbar-nav .nav-link{color: #000;}
+a.nav-link:hover {
+    color: #0b59bd!important;
+}
 
 .navbar-dark .navbar-nav .active>.nav-link,
 .navbar-dark .navbar-nav .nav-link.active,
