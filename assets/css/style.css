@@ -285,7 +285,7 @@ footer#footer {
     background: #0b59bd;
     color: #fff;
 }
-.about .block:hover > h3 {
+.about .block:hover > div h3
     color: #fff;
 }
 
