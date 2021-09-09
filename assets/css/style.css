@@ -163,7 +163,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #fff;
+  background-color: #F8F9FA;
 }
 
 .bg-dark {
@@ -248,7 +248,7 @@ a:hover {
 	margin: 30px auto 0 auto;
 	width: 70%;
 }
-#team{background:#3f4751!important;}
+#team{background:#F8F9FA!important;}
 .contact-description {
     color: #000;
     font-size: 17px;
@@ -384,7 +384,7 @@ a.nav-link {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #F8F9FA;
 }
 
 .overly {
@@ -713,7 +713,8 @@ a.nav-link {
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #000;
+  font-size:20px;
 }
 
 .call-to-action .btn-main {
@@ -1014,7 +1015,8 @@ a.nav-link {
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
   margin-bottom: 40px;
-  box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+  background: #fff;
 }
 
 .service-block .service-icon {
@@ -1085,7 +1087,7 @@ a.nav-link {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #292F36;
+  background-color: #fff;
   margin-bottom: 10px;
 }
 
@@ -1165,7 +1167,8 @@ a.nav-link {
 }
 
 .member-meta {
-  padding: 15px;
+  padding: 15px 30px 15px 30px;
+  text-align: justify;
 }
 
 .member-meta h4 {
