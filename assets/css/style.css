@@ -261,7 +261,8 @@ li.nav-item {
 #contact-form select{
     width: 100%;
     height: 39px;
-    background:#999ea4;
+    background: #fff;
+    padding: 0 0 0 5px!important;
 }
 .navbar-brand img{height:60px;}
 a.nav-link {
@@ -274,6 +275,10 @@ a.nav-link {
 }
 .copyrights-text{color:#767e85;}
 .custom-page-title{margin-bottom:25px;}
+.quick-links a {
+    color: #000;
+}
+
 
 @media only screen and (max-width: 768px) {
   .contact-description{
@@ -761,8 +766,9 @@ a.nav-link {
   background-color: transparent;
   border-radius: 0;
   padding: 5px 10px;
-  color: #ddd;
+  color: #000;
   border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid gray;
 }
 
 .form-meghna .form-control:focus {
@@ -1015,7 +1021,7 @@ a.nav-link {
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
   margin-bottom: 40px;
-  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
   background: #fff;
 }
 
@@ -1089,6 +1095,7 @@ a.nav-link {
 .team-member {
   background-color: #fff;
   margin-bottom: 10px;
+  border: 1px solid #e1e1e1;
 }
 
 .team-member:hover .mask {
@@ -1590,7 +1597,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
+  background-color: #fff;
   border: 1px solid transparent;
   display: block;
   height: 70px;
@@ -1608,7 +1615,7 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: #000;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
