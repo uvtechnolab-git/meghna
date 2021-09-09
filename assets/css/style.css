@@ -15,7 +15,7 @@ html {
 body {
   background-color: #fff;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #000;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -364,7 +364,7 @@ a.nav-link {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: #000;
 }
 
 .title h2 span {
@@ -2364,4 +2364,3 @@ figcaption {
 .cookie-box-hide {
   display: none;
 }
-
