@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/rim.jpg
-  image_webp: images/about/rim.webp
+  image: images/about/speedometer.jpg
+  image_webp: images/about/speedometer.webp
   title: Simpler. Better. Faster.
   content: |-
     Performance-driven technology, market intelligence,
