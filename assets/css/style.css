@@ -351,11 +351,23 @@ footer#footer {
 }
 .top-header{text-align: right;padding: 9px 33px 000;color:rgba(0,0,0,.5)}
 .client-login{margin-right: 21px;}
+span.client-support a {
+    color: #000;
+}
+span.client-login a {
+    color: #000;
+}
+
 .navbar{padding: 0 1rem!important}
 
 
-
-/*.navbar-light .navbar-nav .nav-link{color:#000!important;}*/
+.navbar-nav li:last-child a{
+    background: #0b59bd;
+    color: #fff!important;
+    padding-left: 12px!important;
+    padding-right: 12px!important;
+}
+.navbar-light .navbar-nav .nav-link{color:#000!important;}
 .nav-link:nth-child(5){
     background: #0b59bd;
     color: #fff;
