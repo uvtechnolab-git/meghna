@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/new-speedometer.jpg
-  image_webp: images/about/new-speedometer.webp
+  image: images/about/old-car.jpg
+  image_webp: images/about/old-car.webp
   title: Simpler. Better. Faster.
   content: |-
     Performance-driven technology, market intelligence,
