@@ -368,6 +368,9 @@ span.client-login a {
     padding-right: 15px!important;
 }
 .navbar-light .navbar-nav .nav-link{color:#000;}
+
+.social-icon ul li a{width: 60px;}
+
 /*.nav-link:nth-child(5){
     background: #0b59bd;
     color: #fff;
