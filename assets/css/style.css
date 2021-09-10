@@ -9,6 +9,9 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 /*=== MEDIA QUERY ===*/
 html {
   background-color: #fff;
+	
+	
+	
   color: #737f8a;
 }
 
@@ -535,7 +538,7 @@ a.nav-link:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  /*background: rgba(0, 0, 0, 0.63);*/
   position: absolute;
   top: 0;
   right: 0;
