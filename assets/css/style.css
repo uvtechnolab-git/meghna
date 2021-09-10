@@ -304,6 +304,15 @@ footer#footer {
 .service-icon{
     color: #0b59bd;
 }
+.service-block:hover .service-icon i {
+    color: #fff;
+}
+.about .block:hover .icon-box {
+    color: #fff;
+}
+.about .block:hover h3 {
+    color: #fff;
+}
 
 
 
