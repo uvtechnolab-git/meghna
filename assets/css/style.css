@@ -352,10 +352,10 @@ footer#footer {
 .top-header{text-align: right;padding: 9px 33px 000;color:rgba(0,0,0,.5)}
 .client-login{margin-right: 21px;}
 span.client-support a {
-    color: #000;
+    color: rgba(0,0,0,.5);
 }
 span.client-login a {
-    color: #000;
+    color: rgba(0,0,0,.5);
 }
 
 .navbar{padding: 0 1rem!important}
