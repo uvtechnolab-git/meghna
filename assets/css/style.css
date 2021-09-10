@@ -9,9 +9,6 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 /*=== MEDIA QUERY ===*/
 html {
   background-color: #fff;
-	
-	
-	
   color: #737f8a;
 }
 
@@ -247,9 +244,9 @@ a:hover {
 .about .block{min-height: 393px;}
 .service-block{min-height: 350px;}
 .about-description{
-	color:#000;
-	margin: 30px auto 0 auto;
-	width: 70%;
+  color:#000;
+  margin: 30px auto 0 auto;
+  width: 70%;
 }
 #team{background:#F8F9FA!important;}
 .contact-description {
@@ -300,15 +297,23 @@ footer#footer {
     color: #fff;
 }
 .parent-overlay{text-align:center;}
+.icon-box{
+    color: #0b59bd;
+}
+
+.service-icon{
+    color: #0b59bd;
+}
+
 
 
 @media only screen and (max-width: 768px) {
   .contact-description{
-	  width:100%;
+    width:100%;
    }
   .about-description{
-	margin: 30px auto 0 auto;
-	width: 100%%;
+  margin: 30px auto 0 auto;
+  width: 100%%;
    }
 }
 
@@ -319,23 +324,23 @@ footer#footer {
   }
   
   .contact-description{
-	  width:100%;
+    width:100%;
    }
   .about-description{
-	margin: 30px auto 0 auto;
-	width: 100%%;
+  margin: 30px auto 0 auto;
+  width: 100%%;
    }
 }
 
 @media (max-width: 768px) {
   .contact-description{
-	  width:100%;
+    width:100%;
    }
   .about-description{
-	margin: 30px auto 0 auto;
-	width: 100%%;
+  margin: 30px auto 0 auto;
+  width: 100%%;
    }
-	
+  
   .section {
     padding: 80px 0;
   }
@@ -538,7 +543,7 @@ a.nav-link:hover {
 
 .hero-area:before {
   content: '';
-  /*background: rgba(0, 0, 0, 0.63);*/
+  background: rgba(0, 0, 0, 0.63);
   position: absolute;
   top: 0;
   right: 0;
@@ -1681,7 +1686,7 @@ input#e-mail,
 }
 
 /*=================================================================
-	Twitter Feed
+  Twitter Feed
 ==================================================================*/
 
 .twitter-bird span {
@@ -1707,7 +1712,7 @@ input#e-mail,
 }
 
 /*=================================================================
-	Blog Page
+  Blog Page
 ==================================================================*/
 #blog-banner {
   padding-bottom: 100px;
@@ -1965,7 +1970,7 @@ aside.widget {
 }
 
 /*=================================================================
-	Single Blog Page
+  Single Blog Page
 ==================================================================*/
 .single-blog {
   background-color: #fff;
