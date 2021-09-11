@@ -48,5 +48,15 @@
   </div>
 </section>
 {{"<!-- /team -->" | safeHTML}}
+
+<script>
+$(document).ready(function(){
+  $(".member-photo").click(function(){
+	  alert("clicked");
+    $(".member-meta").toggle();
+  });
+});
+</script>
+
 {{ end }}
 {{ end }}
