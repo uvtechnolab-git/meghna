@@ -147,7 +147,7 @@ jQuery(function ($) {
 	    $(".team-bio").toggle();
 	});
 	
-	$("a:last-child").append("test");
+	$(".nav-link:last-child").prepend("<i class='ti-user'></i>");
 
 	
 
