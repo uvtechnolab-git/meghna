@@ -143,6 +143,7 @@ jQuery(function ($) {
 		counter();
 	});
 	
+	alert("load");
 	$(".custom-profile-image").click(function(){
 	    alert("clicked");
 	    $(this).closest(".team-bio").toggle();
