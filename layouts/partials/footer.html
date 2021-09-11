@@ -35,14 +35,7 @@
 </footer>
 {{"<!-- /footer -->" | safeHTML}}
 
-<script>
-$(document).ready(function(){
-  $(".member-photo").click(function(){
-	  alert("clicked");
-    $(".member-meta").toggle();
-  });
-});
-</script>
+
 
 {{ "<!-- Google Map API -->" | safeHTML }}
 {{ if site.Params.map.enable }}
