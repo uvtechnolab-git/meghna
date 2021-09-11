@@ -371,6 +371,10 @@ span.client-login a {
 
 .social-icon ul li a{width: 60px;}
 
+
+.navbar {
+    margin-bottom: 13px;
+}
 /*.nav-link:nth-child(5){
     background: #0b59bd;
     color: #fff;
