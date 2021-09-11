@@ -144,8 +144,7 @@ jQuery(function ($) {
 	});
 	
 	$(".custom-profile-image").click(function(){
-	    alert("clicked");
-	    $(".team-bio:first-child").toggle();
+	    $(".team-bio").toggle();
 	});
 
 });
