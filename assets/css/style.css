@@ -370,7 +370,7 @@ span.client-login a {
 .navbar-light .navbar-nav .nav-link{color:#000;}
 
 .social-icon ul li a{width: 60px;}
-
+a.nav-link:hover{font-weight:600;}
 
 .navbar {
     margin-bottom: 13px;
@@ -584,7 +584,11 @@ span.client-login a {
 }
 
 .navbar-dark .navbar-nav .nav-link{color: #000;}
-a.nav-link:hover {
+
+
+
+
+{
     color: #0b59bd!important;
 }
 
@@ -621,7 +625,7 @@ a.nav-link:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  /*background: rgba(0, 0, 0, 0.63);*/
   position: absolute;
   top: 0;
   right: 0;
