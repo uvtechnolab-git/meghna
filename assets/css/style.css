@@ -375,6 +375,7 @@ a.nav-link:hover{font-weight:600;}
 .navbar {
     margin-bottom: 13px;
 }
+.careers ul{font-size:20px;}
 /*.nav-link:nth-child(5){
     background: #0b59bd;
     color: #fff;
