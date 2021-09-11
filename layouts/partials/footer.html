@@ -35,6 +35,15 @@
 </footer>
 {{"<!-- /footer -->" | safeHTML}}
 
+<script>
+(function ($) {
+  $(".member-photo").click(function(){
+	  alert("clicked");
+    $(".member-meta").toggle();
+  });
+})(jQuery);
+</script>
+
 {{ "<!-- Google Map API -->" | safeHTML }}
 {{ if site.Params.map.enable }}
 <script src="{{ site.Params.map.gmap_api | safeURL }}"></script>
@@ -69,13 +78,6 @@
 			};
 		}
 	})(jQuery);
-
-(function ($) {
-  $(".member-photo").click(function(){
-	  alert("clicked");
-    $(".member-meta").toggle();
-  });
-})(jQuery);
 	
 </script>
 {{ end }}
