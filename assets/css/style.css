@@ -377,7 +377,7 @@ a.nav-link:hover{font-weight:600;}
 }
 .careers ul{font-size:20px;}
 .team-bio{display:none;}
-
+.custom-menu{font-size:15px;margin-right:7px}
 /*.nav-link:nth-child(5){
     background: #0b59bd;
     color: #fff;
