@@ -36,12 +36,12 @@
 {{"<!-- /footer -->" | safeHTML}}
 
 <script>
-(function ($) {
+$(document).ready(function(){
   $(".member-photo").click(function(){
 	  alert("clicked");
     $(".member-meta").toggle();
   });
-})(jQuery);
+});
 </script>
 
 {{ "<!-- Google Map API -->" | safeHTML }}
