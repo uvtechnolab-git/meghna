@@ -142,5 +142,10 @@ jQuery(function ($) {
 	$(window).on('scroll', function () {
 		counter();
 	});
+	
+	$(".custom-profile-image").click(function(){
+	    alert("clicked");
+	    $(this).closest(".team-bio").toggle();
+	});
 
 });
