@@ -146,5 +146,9 @@ jQuery(function ($) {
 	$(".custom-profile-image").click(function(){
 	    $(".team-bio").toggle();
 	});
+	
+	$(".navbar-nav li:last-child a").append("<i class="ti-user"></i>");
+
+	
 
 });
