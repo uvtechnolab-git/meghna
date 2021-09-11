@@ -146,7 +146,7 @@ jQuery(function ($) {
 	alert("load");
 	$(".custom-profile-image").click(function(){
 	    alert("clicked");
-	    $(".team-bio").toggle();
+	    $(".team-bio:first-child").toggle();
 	});
 
 });
