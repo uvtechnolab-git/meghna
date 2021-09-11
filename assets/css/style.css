@@ -372,8 +372,8 @@ span.client-login a {
 .social-icon ul li a{width: 60px;}
 a.nav-link:hover{font-weight:600;}
 
-.navbar {
-    margin-bottom: 13px;
+.navbar, .sticky-top {
+   margin: 13px 0;
 }
 .careers ul{font-size:20px;}
 .team-bio{display:none;}
