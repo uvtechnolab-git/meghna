@@ -3,10 +3,17 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: CAREER
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
-    odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
+  title: CAREERS
+  content: "We hire and develop the best, insist on the highest standards, and create
+    a work environment where employees can thrive, have fun, and feel empowered. Losing
+    is not in our vocabulary  – we learn, adjust, improve, and succeed.  Our company
+    values are the heart of our company:  Client. Team. Win. Learn. Invent. Simplify.
+    Respect. Trust. \n                                                                                   \nWe
+    are actively looking for top talent who:\n•\tAre passionate about client success,
+    serve with the highest Integrity \n•\tCollaborate, Respect, and take Accountability\n•\tNever
+    satisfied with status quo\n•\tMove boldly in the quest for superior and best in
+    market solutions"
   button:
     enable: true
-    label: Contact
-    link: "#contact"
+    label: SEARCH ALL JOBS
+    link: "#"
