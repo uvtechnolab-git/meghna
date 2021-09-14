@@ -17,7 +17,7 @@
 				{{ .content | markdownify }}
 				{{ if .button.enable }}
 				{{ with .button }}
-				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
+				<div class="career-button"><a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a></div>
 				{{ end }}
 				{{ end }}
 			</div>
