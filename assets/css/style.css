@@ -381,6 +381,7 @@ a.nav-link:hover{font-weight:600;}
 
 a.navbar-brand.p-0 {
     margin-bottom: 9px;
+    margin-top: 9px;
 }
 /*.nav-link:nth-child(5){
     background: #0b59bd;
