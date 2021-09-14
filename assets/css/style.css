@@ -1250,7 +1250,7 @@ a.navbar-brand.p-0 {
 
 .member-photo img {
   transition: all 0.4s ease 0s;
-  width: 35%;
+  width: 28%;
 }
 
 @media (max-width: 768px) {
