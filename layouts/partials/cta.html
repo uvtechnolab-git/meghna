@@ -14,7 +14,7 @@
 				    {{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
 				  <div class="border-meghna"></div>
 				</div>				
-				<p>{{ .content | markdownify }}</p>
+				{{ .content | markdownify }}
 				{{ if .button.enable }}
 				{{ with .button }}
 				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
