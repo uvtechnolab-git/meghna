@@ -14,7 +14,7 @@
 				    {{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
 				  <div class="border-meghna"></div>
 				</div>
-				<h2>{{ .title | markdownify }}</h2>
+				<!--<h2>{{ .title | markdownify }}</h2>-->
 				<p>{{ .content | markdownify }}</p>
 				{{ if .button.enable }}
 				{{ with .button }}
