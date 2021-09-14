@@ -1218,6 +1218,7 @@ a.navbar-brand.p-0 {
   background-color: #fff;
   margin-bottom: 10px;
   border: 1px solid #e1e1e1;
+  padding-bottom: 49px;
 }
 
 .team-member:hover .mask {
@@ -1249,6 +1250,7 @@ a.navbar-brand.p-0 {
 
 .member-photo img {
   transition: all 0.4s ease 0s;
+  width: 35%;
 }
 
 @media (max-width: 768px) {
