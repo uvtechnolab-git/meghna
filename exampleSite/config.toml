@@ -38,31 +38,31 @@ name = "Desclaimer"
 url = "/desclaimer"
 weight = "2"
 [[Languages.en.menu.main]]
-name = "Home"
+name = "HOME"
 url = "#content"
 weight = "1"
 [[Languages.en.menu.main]]
-name = "About"
+name = "ABOUT"
 url = "#about"
 weight = "2"
 [[Languages.en.menu.main]]
-name = "Solutions"
+name = "SOLUTIONS"
 url = "#solutions"
 weight = "3"
 [[Languages.en.menu.main]]
-name = "Team"
+name = "TEAM"
 url = "#team"
 weight = "4"
 [[Languages.en.menu.main]]
-name = "Careers"
+name = "CAREERS"
 url = "#careers"
 weight = "5"
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "CONTACT"
 url = "#contact"
 weight = "6"
 [[Languages.en.menu.main]]
-name = "Client Support"
+name = "CLIENT LOGIN"
 url = "#"
 weight = ""
 [Languages.fr]
