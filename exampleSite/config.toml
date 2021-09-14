@@ -108,7 +108,7 @@ weight = 8
 author = "Themefisher"
 description = "Agility Credit is revolutionizing the way credit reporting, compliance, and lead generation products are delivered to automotive dealers."
 google_analytics_id = ""
-logo = "images/agility-credit-logo.png"
+logo = "images/agility-logo.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -145,7 +145,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/agility-credit-logo.png"
+preloader = "images/agility-logo.png"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
