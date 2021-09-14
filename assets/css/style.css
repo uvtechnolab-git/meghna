@@ -335,14 +335,14 @@ footer#footer {
             background: #0b59bd; 
             text-align:center;
             height: 15px; 
-            width: 180px;
-            padding: 11px 2px 50px 0;
+            width: 104px;
+            padding: 14px 2px 37px 0px;
+	    margin: 0px 0 0 26px;
             color: #fff; 
             font-family: Arial, sans-serif; 
             font-size: 17px; 
             font-weight: bold; 
-            text-decoration: none; 
-            border-bottom: solid 1px #333; border-left: solid 1px #333; border-right: solid 1px #333;
+            text-decoration: none;            
       
 }
 
