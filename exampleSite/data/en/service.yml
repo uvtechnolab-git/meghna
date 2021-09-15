@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: SOLUTIONS
   service_item:
   - name: Credit Reporting
@@ -16,7 +16,7 @@ service:
   - name: Instant Pre-Approval
     icon: ti-check-box
     content: Engage your customers, sell more cars in less time.
-  - name: AI-Powered analytics
+  - name: AI-Powered Analytics
     icon: ti-bar-chart
     content: Data-driven insights, fueling customer acquisition.
   - name: Market Intelligence
