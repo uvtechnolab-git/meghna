@@ -1,6 +1,6 @@
 ---
 service:
-  enable: false
+  enable: true
   title: SOLUTIONS
   service_item:
   - name: Credit Reporting
@@ -21,4 +21,4 @@ service:
     content: Data-driven insights, fueling customer acquisition.
   - name: Market Intelligence
     icon: ti-briefcase
-    content: Competitive insights with actual sales and lender data in your DMA.
+    content: Competitive insights with actual sales and lender data in your DMA.1
