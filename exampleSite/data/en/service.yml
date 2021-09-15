@@ -21,4 +21,4 @@ service:
     content: Data-driven insights, fueling customer acquisition.
   - name: Market Intelligence
     icon: ti-briefcase
-    content: Competitive insights with actual sales and lender data in your DMA.1
+    content: Competitive insights with actual sales and lender data in your DMA.
